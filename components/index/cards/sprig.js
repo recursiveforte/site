@@ -231,14 +231,14 @@ export default function Sprig({ stars, game, gameImage, gameImage1 }) {
               Build a Sprig game
             </Buttons>
             <Buttons
-              content="learn more on our github"
+              // content="learn more on our github"
               id="8"
               link="https://github.com/hackclub/sprig"
             >
               Review games / build the engine
             </Buttons>
             <Buttons
-              // content="we're all hanging out in #sprig on Slack"
+              content="we're all hanging out in #sprig on Slack"
               id="9"
               icon="friend"
               link="/slack"
